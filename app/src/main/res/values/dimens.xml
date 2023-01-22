@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_width">120dp</dimen>
+    <dimen name="card_w">120dp</dimen>
+    <dimen name="card_h">80dp</dimen>
+    <dimen name="card_mt">16dp</dimen>
+    <dimen name="card_ms">15dp</dimen>
+    <dimen name="image_w">120dp</dimen>
+    <dimen name="image_h">80dp</dimen>
+    <dimen name="relative_w">120dp</dimen>
+    <dimen name="relative_h">24dp</dimen>
+    <dimen name="relative_pt">2dp</dimen>
+    <dimen name="playlist_w">40dp</dimen>
+    <dimen name="playlist_h">16dp</dimen>
+    <dimen name="playlist_ms">54dp</dimen>
+    <dimen name="playlist_mt">2dp</dimen>
+    <dimen name="playkist_me">26dp</dimen>
+    <dimen name="playlist_mb">4dp</dimen>
+    <dimen name="playlist_textsize">12sp</dimen>
+    <dimen name="linear_w">0dp</dimen>
+    <dimen name="linear_me">16dp</dimen>
+    <dimen name="textview_ms">8dp</dimen>
+    <dimen name="tv_textsize">16sp</dimen>
+    <dimen name="tv2_textsize">12sp</dimen>
+</resources>
